@@ -6,7 +6,9 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.BaseAdapter;
 import android.widget.TextView;
+
 import java.util.List;
+
 import br.com.alura.ceep.R;
 import br.com.alura.ceep.model.Nota;
 
