@@ -3,6 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/_projeto/android/CEEP/app/src/main/res/layout/activity_lista_notas.xml" value="0.20416666666666666" />
+        <entry key="..\:/_projeto/android/CEEP/app/src/main/res/layout/item_nota.xml" value="0.16203703703703703" />
         <entry key="..\:/_projeto/android/nova/Ceep/app/src/main/res/drawable/fundo_gradiente_insere_nota.xml" value="0.2169230769230769" />
         <entry key="..\:/_projeto/android/nova/Ceep/app/src/main/res/layout/activity_lista_notas.xml" value="0.25" />
         <entry key="..\:/_projeto/android/nova/Ceep/app/src/main/res/layout/item_nota.xml" value="0.20416666666666666" />
