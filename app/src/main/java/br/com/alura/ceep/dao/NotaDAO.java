@@ -8,7 +8,6 @@ import java.util.List;
 import br.com.alura.ceep.model.Nota;
 
 public class NotaDAO {
-
     private final static ArrayList<Nota> notas = new ArrayList<>();
 
     public List<Nota> todos() {
